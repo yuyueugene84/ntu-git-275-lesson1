@@ -7,6 +7,6 @@
 ## Github Username
 **yuyueugene84**
 ## My Favorite Programming Languages
-Ruby
-Javascript
-Python
+1. Ruby
+2. Javascript
+3. Python
